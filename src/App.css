@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+.message{
+  font-size: larger;
+  color: brown;
+  padding: 4px;
+  background-color: cadetblue;
+}
